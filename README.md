@@ -22,4 +22,5 @@
 #### Open the shadowerapis solution , Update the GetConnectionString() function inside HelperFunctions.cs with your DB set up details.
 #### Note : Whenever you create agent, you have to set up the C2 server path as the IP/Domain of the machine where the shadowerapis.exe is running.
 ##### For educational pruposes only. Use it with caution. I did not release the Decrypt application with this , either make it yourself or wait for me to release it.
+## All generated binaries will be inside 'buildref' folder
 ## Happy Controlled Simulation
