@@ -1,0 +1,15 @@
+CREATE ROLE shadoweradmin WITH LOGIN SUPERUSER CREATEDB CREATEROLE PASSWORD 'newPass$123';
+CREATE DATABASE shadowercp OWNER shadoweradmin;
+
+psql -U shadoweradmin -d shadowercp
+
+create table shadoweragent (
+id serial primary key,
+agenthostname text not null,
+agentIP text not null,
+agentOS text not null,
+agentmacid text not null,
+agentuniqid text not null,
+command text not null,
+commandres text not null,
+createdat timestamp not null);

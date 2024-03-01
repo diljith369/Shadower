@@ -1,0 +1,16 @@
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\bin\Debug\ShadowerCP.exe.config
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\bin\Debug\ShadowerCP.exe
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\bin\Debug\ShadowerCP.pdb
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.csproj.AssemblyReference.cache
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.CommandForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.Properties.Resources.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.csproj.GenerateResource.cache
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.csproj.CoreCompileInputs.cache
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.exe
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.pdb
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.AllAgentsForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.ShadowerForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.AgentBuilderForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.ServerSettingsForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.MiscForm.resources
+D:\dCrypt0r\Apps\Shad0w3R\ShadowerCP\obj\Debug\ShadowerCP.ReflectLoaderForm.resources
