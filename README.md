@@ -16,6 +16,7 @@
 ### To encrypt files use enc command : enc file(s)path,*.*,false  - encrypts all files in the specified folder and do not change desktop wallpaper (setting final parameter true will make changes to desktop wall paper if the user has enough permissions to perform it)
 ### Other notable commands
 #### pwd , screencount, getscreen <screennumber>, listdir <PathToParentDirectory> , listfiles <PathToParentDirectory>
+![Shad0w3R](https://github.com/diljith369/Shadower/blob/main/help.png)
 #### Avoided EDR flagged APIS , but you can add more functions and try.
 #### Set up needs PostGresql environment and Run sql command inside "PSSQL-Commands.txt" file.
 #### Open the shadowerapis solution , Update the GetConnectionString() function inside HelperFunctions.cs with your DB set up details.
